@@ -1,0 +1,26 @@
+{
+    "id": "10D85B4F",
+    "path": "~/Desktop/doc-callout/_extensions/doc-callout/doc-callout.lua",
+    "project_path": "_extensions/doc-callout/doc-callout.lua",
+    "type": "lua",
+    "hash": "4055276845",
+    "contents": "",
+    "dirty": false,
+    "created": 1676993411765.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676993420,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676993420411,
+    "read_only": false,
+    "read_only_alternatives": []
+}
